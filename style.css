@@ -10,11 +10,11 @@ body {
 }
 
 #container {
-    display: flex;
-     flex-wrap: wrap;
-     justify-content: space-between;
-     padding: 4rem;
-     gap: 3rem;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem;
+    gap: 3rem;
 }
 
 .cartao {
@@ -76,6 +76,7 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
 }
+
 
 footer {
     background-color: black;
