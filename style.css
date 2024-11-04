@@ -73,8 +73,10 @@ body {
     width: 100%;
 }
 
-.cartao__conteudo__resposta {
+.cartao__conteudo__resposta{
     transform: rotateY(180deg);
+    background-color: rdba(0, 244, 191, 0.2);
+    border: 4px solid var(--card-back-color);;
 }
 
 
