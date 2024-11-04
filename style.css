@@ -96,7 +96,7 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
-@media (max-width: 560 px) {
+@media (max-width: 560px) {
 
     body {
         background: url('img/bd-mobile.webp');
